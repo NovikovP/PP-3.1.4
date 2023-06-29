@@ -57,3 +57,16 @@ __
 Все операции должны быть выполнены последовательно по условию
 
 Для того, чтобы получить необходимый заголовок из запроса, необходимо использовать тип данных ResponseEntity ** в качестве ответа на ваш запрос.
+
+## RESULT
+
+
+Cookie: JSESSIONID=77DDC9389103D20492C6F469DB75222E; Path=/; HttpOnly
+
+Block-code 1: 5ebfeb
+
+Block-code 2: e7cb97
+
+Block-code 3: 5dfcf9
+
+Result code: 5ebfebe7cb975dfcf9
